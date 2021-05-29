@@ -1,0 +1,24 @@
+*{
+    padding: o;
+    margin: 0;
+}
+.main-menu{
+background-color: rgb(9, 9, 10);
+padding: 1em;
+text-align: center;
+
+}
+body{
+    background-color: grey;
+}
+.main-menu > a {
+    color: white;
+    padding-left: 20px;
+    text-decoration: none;
+    
+   
+}
+
+.main-menu > a:hover{
+    color:rgb(202, 255, 8)
+}
